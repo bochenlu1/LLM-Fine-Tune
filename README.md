@@ -1,4 +1,4 @@
-Improving Financial Sentiment Analysis with Fine-Tuned BERT Models: A Comparative Study of Pre-Trained Corpora
+*Improving Financial Sentiment Analysis with Fine-Tuned BERT Models: A Comparative Study of Pre-Trained Corpora*
 
 Sentiment analysis has become increasingly important in the financial domain with a wide range of applications (Fatouros et al., 2023) (Remesh & Gaba, 2023). Accurate sentiment analysis of financial news and reports can provide valuable insights for investors, traders, and financial institutions, enabling them to make informed decisions and manage risk (Remesh & Gaba, 2023). However, the complexity and specialized (domain-specific) language used in financial texts pose unique challenges when running these models. As a result, we wanted to compare the performance of three different BERT-based language models (BERT-Large-uncased, BERT-uncased, and FinBERT) on financial sentiment analysis tasks. By fine-tuning these models and optimizing hyperparameters such as number of epochs and learning rate, we aim to:
 
